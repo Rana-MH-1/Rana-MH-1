@@ -66,9 +66,8 @@
 ---
 
 ### 🎓 E-learning Platform
-- Subscription-based learning platform  
 - Trainer–student interaction modules  
-- Stripe integration for payments  
+-🔗 https://learn.gomycode.co 
 
 ---
 
