@@ -25,7 +25,7 @@
 ## 🧠 What I Build
 
 - 🤖 AI-powered platforms (OpenAI, chatbots, automation)
-- ⚡ Scalable backend APIs (Node.js, FastAPI, NestJS)
+- ⚡ Scalable backend APIs (Node.js, ExpressJS, NestJS | FastAPI)
 - 🎯 Modern frontends (React, Next.js)
 - 🔄 Real-time systems (WebSockets)
 - 💳 Payments & subscriptions (Stripe)
