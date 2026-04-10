@@ -62,7 +62,8 @@
 
 - AI CV analysis & candidate scoring  
 - Video interview evaluation using AI  
-- Real-time chatbot (WebSocket + OpenAI) : ⏱ Reduced preparation time by **50%**  
+- Real-time chatbot (WebSocket + OpenAI) : ⏱ Reduced preparation time by **50%**
+- 🔗 https://app.hirelands.com
 ---
 
 ### 🎓 E-learning Platform
