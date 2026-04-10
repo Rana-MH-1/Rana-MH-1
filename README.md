@@ -18,7 +18,7 @@
 
 🧠 Specialized in **AI integrations**, **real-time systems**, and **high-performance architectures**.  
 
-🌍 Based in Tunisia, working remotely with international teams.  
+🌍 Based in Tunisia, working remotely with international teams. | Open to International Relocation  
 
 ---
 
