@@ -74,6 +74,7 @@
 
 ### 🏥 Patient Management System
 🔗 https://github.com/Rana-MH-1/patient-management-assessment  
+🔗 https://patient-management-assessment.vercel.app
 
 - Built with **Next.js 14 + NestJS**  
 - Clean architecture & modern UI  
