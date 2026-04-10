@@ -59,18 +59,13 @@
 ## 🔥 Featured Projects
 
 ### 🧠 AI Recruitment Platform
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800" width="100%" />
 
 - AI CV analysis & candidate scoring  
 - Video interview evaluation using AI  
-- Real-time chatbot (WebSocket + OpenAI)  
-- ⏱ Reduced preparation time by **50%**  
-
+- Real-time chatbot (WebSocket + OpenAI) : ⏱ Reduced preparation time by **50%**  
 ---
 
 ### 🎓 E-learning Platform
-<img src="https://images.unsplash.com/photo-1584697964154-6b1a7c1c5b89?q=80&w=800" width="100%" />
-
 - Subscription-based learning platform  
 - Trainer–student interaction modules  
 - Stripe integration for payments  
@@ -78,8 +73,6 @@
 ---
 
 ### 🏥 Patient Management System
-<img src="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=800" width="100%" />
-
 🔗 https://github.com/Rana-MH-1/patient-management-assessment  
 
 - Built with **Next.js 14 + NestJS**  
