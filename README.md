@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Engineer | AI & SaaS Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;AI+Powered+SaaS+Builder;React+%7C+Node.js+%7C+FastAPI;Building+Scalable+Platforms&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;AI+Powered+SaaS+Builder;React+%7C+Node.js+%7C+Python;Building+Scalable+Platforms&center=true&width=500&height=45">
 </p>
 
 <p align="center">
